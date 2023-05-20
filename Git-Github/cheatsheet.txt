@@ -1,0 +1,10 @@
+
+git init
+
+git remote add origin SSH
+
+///// 	*Varias ramas al GitHub
+			git push --mirror
+
+		*Eliminar una rama 
+			git branch -d (Nombre rama)
