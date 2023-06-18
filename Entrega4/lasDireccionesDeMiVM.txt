@@ -1,0 +1,5 @@
+inet 10.0.2.15
+
+direcciónHW 08:00:27:5d:4a:a3
+
+la dirección MAC es una identificación única de hardware para tu máquina virtual, mientras que las direcciones IP son identificaciones de red asignadas a tu máquina host en diferentes contextos.
