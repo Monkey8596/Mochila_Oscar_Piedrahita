@@ -1,0 +1,5 @@
+Un lenguaje de programación puede estar diseñado y optimizado para funcionar en un sistema operativo en particular debido a diferencias en la arquitectura, el entorno de tiempo de ejecución y las bibliotecas disponibles en ese sistema operativo específico.Un lenguaje de programación debe adaptarse y ser compatible con las características y funcionalidades específicas de cada sistema operativo para poder ejecutarse correctamente.
+
+VirtualBox es un software de virtualización que proporciona una máquina virtual (VM) en la cual se pueden instalar y ejecutar otros sistemas operativos.
+
+Si una máquina virtual se rompe o tiene problemas técnicos, por lo general no afectará directamente a las otras máquinas virtuales que están ejecutándose en el mismo entorno de virtualización. Cada máquina virtual se ejecuta en su propio entorno aislado, y los fallos o problemas que ocurran en una máquina virtual no se propagarán automáticamente a otras máquinas virtuales. 
